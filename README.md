@@ -8,5 +8,5 @@ This repo contains problems and solutions from classes I've taken as an M.S. in 
 
 My [linkedin] has transcript information.
 
-[program info]: <http://nodejs.org>
+[program info]: <https://datascience.umn.edu/>
 [linkedin]: <https://www.linkedin.com/in/samuel-naden-8a967154/>
