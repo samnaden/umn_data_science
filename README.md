@@ -1,6 +1,6 @@
 # UMN Data Science
 
-This repo contains problems and solutions from classes I've taken as an M.S. in data science student. Check out the [program info]. Below are the courses I have taken so far.
+This repo contains discussions, problems, and solutions from classes I've taken as an M.S. in data science student. Check out the [program info]. Below are the courses I have taken so far.
 - Intro to Machine Learning
 - Introduction to Parallel Computing: Architectures, Algorithms, and Programming
 - Big Data Engineering and Analytics
