@@ -1,8 +1,8 @@
 # potential todos
 - learning multivariate Gaussians for classification
   * found in intro to ML HW1
-- impact of PCA on KNN performance
-  * found in intro to ML HW2
+- impact of PCA/SVD on KNN performance
+  * You could apply SVD and PCA, which are very similar, to a simple KNN problem. You used PCA in intro to ML HW2 and SVD in Data Mining HW1. Both involved KNN classification in conjunction with dimensionality reduction. Here's a nice stack overflow showing how the methods are related: https://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca
 - K Means clustering
 - EM algorithm and how it relates to clustering and image compression
   * found in intro to ML HW3
