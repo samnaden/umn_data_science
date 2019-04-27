@@ -5,6 +5,8 @@ This repo contains discussions, problems, and solutions from classes I've taken 
 - Introduction to Parallel Computing: Architectures, Algorithms, and Programming
 - Big Data Engineering and Analytics
 - Artificial Intelligence II
+- Data Mining
+- Bayesian Analysis
 
 My [linkedin] has transcript information.
 
