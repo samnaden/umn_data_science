@@ -7,6 +7,8 @@ This repo contains discussions, problems, and solutions from classes I've taken 
 - Artificial Intelligence II
 - Data Mining
 - Bayesian Analysis
+- Recommender Systems
+- Theory of Statistics II
 
 My [linkedin] has transcript information.
 
